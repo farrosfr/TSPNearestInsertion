@@ -1,3 +1,5 @@
+# Introduction
+
 To solve the Traveling Salesman Problem (TSP) using the Nearest Insertion algorithm and Euclidean distance calculation in Python, you can follow the steps below:
 
 1. Read the data from the CSV file and store it in a list of dictionaries.
